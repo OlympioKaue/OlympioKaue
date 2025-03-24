@@ -1,6 +1,4 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="" />
-&nbsp;&nbsp;&nbsp;
 
 
 <p align="center"> Estudante De Tecnologia. <br><br>Estou em transição de carreira e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Busco me especializando na trilha backend, com foco na linguagem C# e no ecossistema .NET, buscando me tornar um desenvolvedor completo e altamente capacitado..</p>&nbsp;
@@ -47,4 +45,4 @@
 
 <div> 
 </a>
-<a href = "linkedin.com/in/devkaueolympio"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/devkaueolympio/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
