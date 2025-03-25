@@ -1,7 +1,7 @@
 
 
 
-<p align="center"> Estudante De Tecnologia. <br><br>Estou em transição de carreira e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Busco me especializando na trilha backend, com foco na linguagem C# e no ecossistema .NET, buscando me tornar um desenvolvedor completo e altamente capacitado..</p>&nbsp;
+<p align="center"> Estudante De Tecnologia. <br><br>Estou em transição de carreira e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Busco me especializando na trilha backend, com foco na linguagem C# e no ecossistema .NET, Possuo básico conhecimento em linguagem Java e Python buscando me tornar um desenvolvedor completo e altamente capacitado..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=OlympioKaue&theme=radical&mode=weekly" />
